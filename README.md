@@ -6,7 +6,7 @@
 
 ```python
 svg = SVGMobject("file.svg")
-#											---- this is this is necessary
+#                     ---- this is this is necessary
 ```
 
 ### Assets dir problem with SVG
